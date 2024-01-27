@@ -1,4 +1,4 @@
-package com.springboot.emsbackend.Mapper;
+package com.springboot.emsbackend.mapper;
 
 import com.springboot.emsbackend.dto.EmployeeDto;
 import com.springboot.emsbackend.entity.Employee;

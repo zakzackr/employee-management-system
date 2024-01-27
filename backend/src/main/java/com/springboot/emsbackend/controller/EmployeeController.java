@@ -23,7 +23,6 @@ public class EmployeeController {
         return new ResponseEntity<>(savedEmployee, HttpStatus.CREATED);
     }
 
-    // Build Get employee REST API
     @GetMapping("{id}")
     public ResponseEntity<EmployeeDto> getEmployeeById(@PathVariable Long id){
         EmployeeDto employeeDto = employeeService.getEmployeeById(id);

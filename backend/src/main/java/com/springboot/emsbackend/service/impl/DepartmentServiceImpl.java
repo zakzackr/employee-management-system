@@ -1,14 +1,12 @@
 package com.springboot.emsbackend.service.impl;
 
-import com.springboot.emsbackend.Mapper.DepartmentMapper;
+import com.springboot.emsbackend.mapper.DepartmentMapper;
 import com.springboot.emsbackend.dto.DepartmentDto;
 import com.springboot.emsbackend.entity.Department;
-import com.springboot.emsbackend.entity.Employee;
 import com.springboot.emsbackend.exception.ResourceNotFoundException;
 import com.springboot.emsbackend.repository.DepartmentRepository;
 import com.springboot.emsbackend.service.DepartmentService;
 import lombok.AllArgsConstructor;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
