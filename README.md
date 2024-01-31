@@ -47,7 +47,7 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 * React.jsでの関数コンポーネントの書き方
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
-* HTTPの理解（リクエスト、レスポンス、ヘッダ、ボディ、ステータスコードなど）
+* HTTPについて（リクエスト、レスポンス、ヘッダ、ボディ、ステータスコードなど）
 <br>
 
 3層アーキテクチャの詳細についてはこちらに記事（[【初心者向け】3層アーキテクチャ in Spring Boot](https://qiita.com/shibainuu/items/757c2e418459e4b51dd1)）にまとめたので、ご覧ください。    
