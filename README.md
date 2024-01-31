@@ -4,11 +4,8 @@
 　　　　
     
 # Demo
-![ems-4x-movie](https://github.com/zakzackr/employee-management-system/assets/100734822/9c64bbaa-5795-467f-9dc1-044df60ceedf)　　
+![ems-3x-mute](https://github.com/zakzackr/employee-management-system/assets/100734822/0e8f3212-7501-48b2-8092-f4f5b61954fb)
 
-      
-
-https://github.com/zakzackr/employee-management-system/assets/100734822/8ff19807-4576-4a78-85d4-4a005cf9b838
 
     
 # URL
