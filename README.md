@@ -1,5 +1,5 @@
 # Employee Management System（従業員管理システム）
-# 🐕 概要
+# 🖊️ 概要
 従業員や部署を管理するwebアプリケーション
 <br>
 
@@ -38,6 +38,14 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 * 部署の削除（Delete）：部署の廃部
 <br>
 
+# 📈 作成の経緯
+* リファクタリングや拡張が容易な3層アーキテクチャを理解する
+  -> プレゼンテーション層、ビジネスロジック層、データアクセス層の役割の理解と実装方法の習得
+* HTTPやRESTなどweb開発の基本的概念を理解する
+* 各フレームワーク（Spring Boot, React.js）の使用方法を学ぶ
+* バックエンドとフロントエンド間の連携とデータの表示/保存
+<br>    
+ 
 # 💻 学んだこと
 * RESTというwebアーキテクチャスタイルについて
 * 3層アーキテクチャの役割と実装
@@ -54,10 +62,9 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
 <br>
 
-# 💪 こだわりポイント
+# 🌈 こだわりポイント
 * コードの可読性向上と開発の高速化のため、Lombokライブラリをしたこと
 * Lombokの@AllArgsConstructorアノテーションを使用したコンストラクタインジェクション
-* 
 <br>
   
 
