@@ -4,8 +4,8 @@
 　　　　
     
 # Demo
-![ems-3x-mute](https://github.com/zakzackr/employee-management-system/assets/100734822/0e8f3212-7501-48b2-8092-f4f5b61954fb)
-    
+![ems-app](https://github.com/zakzackr/employee-management-system/assets/100734822/758f48fe-e025-4c0c-8551-7e41ccf41f4c)
+
 # URL
 http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
