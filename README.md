@@ -16,10 +16,10 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 # 💾 技術スタック
 | Category | Tech Stack |
 | ---- | ---- |
-| Frontend | React.js |
-| Backend | Spring Boot |
+| Frontend | JavaScript, React.js |
+| Backend | Java, Spring Boot |
 | Database | MySQL |
-| Infrastructure | AWS(Elastic Beanstalk, S3, RDS) |
+| Infrastructure | AWS (Elastic Beanstalk, S3, RDS) |
 | Others | Git, GitHub |
 <br>
 
