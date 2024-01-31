@@ -3,11 +3,11 @@
 従業員や部署を管理するwebアプリケーション
 <br>
 
-# Demo
+# ⭐️ Demo
 ![ems-app](https://github.com/zakzackr/employee-management-system/assets/100734822/758f48fe-e025-4c0c-8551-7e41ccf41f4c)
 <br>    
 
-# URL
+# 🔗 URL
 http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
 <br> <br>
@@ -53,7 +53,7 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
 <br>
 
-# こだわりポイント
+# 💪 こだわりポイント
 * コードの可読性向上と開発の高速化のため、Lombokライブラリをしたこと
 * Lombokの@AllArgsConstructorアノテーションを使用したコンストラクタインジェクション
 <br>
