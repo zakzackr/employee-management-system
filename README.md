@@ -8,7 +8,7 @@
 <br>    
 
 # URL
-[従業員管理システム](http://my-ems.s3-website-ap-northeast-1.amazonaws.com/)
+http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
 <br> <br>
 
@@ -49,8 +49,8 @@
 * HTTPとは何か（リクエスト、レスポンス、ヘッダ、ボディ、ステータスコードなど）
 <br>
 
-3層アーキテクチャの詳細についてはこちらに記事にしてまとめたので、ご覧ください。    
-https://qiita.com/shibainuu/items/757c2e418459e4b51dd1  
+3層アーキテクチャの詳細についてはこちらに記事（(【初心者向け】3層アーキテクチャ in Spring Boot)[https://qiita.com/shibainuu/items/757c2e418459e4b51dd1  ]）にしてまとめたので、ご覧ください。    
+
 <br>
 
 # こだわりポイント
