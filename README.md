@@ -57,6 +57,7 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 # 💪 こだわりポイント
 * コードの可読性向上と開発の高速化のため、Lombokライブラリをしたこと
 * Lombokの@AllArgsConstructorアノテーションを使用したコンストラクタインジェクション
+* 
 <br>
   
 
