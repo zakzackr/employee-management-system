@@ -41,6 +41,7 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 * React.jsでの関数コンポーネントの書き方
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
+* HTTPとは何か（リクエスト、レスポンス、ヘッダ、ボディなど）
     
 3層アーキテクチャの詳細についてはこちらに記事にしてまとめたので、ご覧ください。    
 https://qiita.com/shibainuu/items/757c2e418459e4b51dd1  
