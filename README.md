@@ -2,6 +2,7 @@
 # 概要
 従業員や部署を管理するwebアプリケーション
 <br>
+
 # Demo
 ![ems-app](https://github.com/zakzackr/employee-management-system/assets/100734822/758f48fe-e025-4c0c-8551-7e41ccf41f4c)
 <br>
@@ -9,8 +10,7 @@
 # URL
 http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 <br>
-<br>
-       
+     
 # 💾 技術スタック
 | Category | Tech Stack |
 | ---- | ---- |
