@@ -17,5 +17,5 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 | Frontend | React.js |
 | Backend | Spring Boot |
 | Database | MySQL |
-| Infrastructure | AWS(Elastic Beanstalk, S3) |
+| Infrastructure | AWS(Elastic Beanstalk, S3, RDS) |
 | Others | Git, GitHub |
