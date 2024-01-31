@@ -35,13 +35,13 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
 # 💻 学んだこと
 * 3層アーキテクチャの役割と実装
-* @RestController, @Service, @Repositoryなどのアノテーションの使用方法
+* @RestController, @Service, @Entityなどのアノテーションの使用方法
 * CRUD（GET, POST, PUT, DELETE）操作の実装
 * Spring Initializrを使用したプロジェクトの新規作成
 * React.jsでの関数コンポーネントの書き方
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
-* HTTPとは何か（リクエスト、レスポンス、ヘッダ、ボディなど）
+* HTTPとは何か（リクエスト、レスポンス、ヘッダ、ボディ、ステータスコードなど）
     
 3層アーキテクチャの詳細についてはこちらに記事にしてまとめたので、ご覧ください。    
 https://qiita.com/shibainuu/items/757c2e418459e4b51dd1  
