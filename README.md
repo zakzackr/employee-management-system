@@ -43,7 +43,7 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 * 3層アーキテクチャの役割と実装
 * @RestController, @Service, @Entityなどのアノテーションの使用方法
 * CRUD（GET, POST, PUT, DELETE）操作の実装
-* Spring Initializrを使用したプロジェクトの新規作成
+* SpringのDIコンテナの役割
 * React.jsでの関数コンポーネントの書き方
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
