@@ -34,14 +34,17 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 * 部署の削除（Delete）：部署の廃部
 
 # 💻 学んだこと
-* 3層アーキテクチャの役割と実装（詳細はQiitaに投稿しました: https://qiita.com/shibainuu/items/757c2e418459e4b51dd1）
+* 3層アーキテクチャの役割と実装
 * @RestController, @Service, @Repositoryなどのアノテーションの使用方法
 * CRUD（GET, POST, PUT, DELETE）操作の実装
 * Spring Initializrを使用したプロジェクトの新規作成
 * React.jsでの関数コンポーネントの書き方
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
-
+    
+3層アーキテクチャの詳細についてはこちらに記事にしてまとめたので、ご覧ください。    
+https://qiita.com/shibainuu/items/757c2e418459e4b51dd1  
+    
 # こだわりポイント
 * コードの可読性向上と開発の高速化のため、Lombokライブラリをしたこと
 * Lombokの@AllArgsConstructorアノテーションを使用したコンストラクタインジェクション
