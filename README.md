@@ -66,8 +66,8 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 <br>
 
 # 🔜 今後の計画
-[　] Spring Securityを導入したログイン機能の追加　　　　
-[　] マルチユーザーに対応
+[ ] Spring Securityを導入したログイン機能の追加　　　　    
+[ ] マルチユーザーに対応
 <br>　　　　
   
 
