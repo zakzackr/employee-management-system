@@ -62,10 +62,16 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 <br>
 
 # 🌈 こだわりポイント
+* 関心の分離と将来の機能拡張のため3層アーキテクチャを使用したこと
 * コードの可読性向上と開発の高速化のため、Lombokライブラリをしたこと
 * Lombokの@AllArgsConstructorアノテーションを使用したコンストラクタインジェクション
-* 
+
 <br>
+
+# 🔜 今後の計画
+[] Spring Securityを導入したログイン機能の追加
+[] マルチユーザーに対応
+
   
 
     
