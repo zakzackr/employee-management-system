@@ -10,8 +10,7 @@
 # 🔗 URL
 http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 
-<br> <br>
-
+<br>　　
 
 # 💾 技術スタック
 | Category | Tech Stack |
@@ -58,14 +57,12 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 <br>
 
 3層アーキテクチャの詳細についてはこちらに記事（[【初心者向け】3層アーキテクチャ in Spring Boot](https://qiita.com/shibainuu/items/757c2e418459e4b51dd1)）にまとめたので、ご覧ください。    
-
 <br>
 
 # 🌈 こだわりポイント
 * 関心の分離と将来の機能拡張のため3層アーキテクチャを使用したこと
 * コードの可読性向上と開発の高速化のため、Lombokライブラリをしたこと
 * Lombokの@AllArgsConstructorアノテーションを使用したコンストラクタインジェクション
-
 <br>
 
 # 🔜 今後の計画
