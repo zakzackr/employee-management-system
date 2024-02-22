@@ -4,7 +4,12 @@
 <br>
 
 # ✨ Demo
-![ems-app](https://github.com/zakzackr/employee-management-system/assets/100734822/758f48fe-e025-4c0c-8551-7e41ccf41f4c)
+
+
+
+https://github.com/zakzackr/employee-management-system/assets/100734822/57a9316f-ad94-4a2f-a5f5-eed5045bda15
+
+
 <br>    
 
 # 🔗 URL
