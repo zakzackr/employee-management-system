@@ -27,6 +27,9 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/
 | Others | Git, GitHub |
 <br>
 
+# 📊 ER図
+<img width="640" alt="スクリーンショット 2024-11-18 15 28 33" src="https://github.com/user-attachments/assets/9eeddd27-c10f-4e6b-a067-bdcf8196b3a3">
+
 # 📝 説明
 従業員管理システムを使用することで、従業員の名前、メールアドレス、所属部署の管理を行うことができます。
     
