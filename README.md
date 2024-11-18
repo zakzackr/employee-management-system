@@ -10,7 +10,8 @@ https://github.com/zakzackr/employee-management-system/assets/100734822/57a9316f
 <br>    
 
 # 🔗 URL
-http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br>    
+http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br> 
+(↑AWS無料枠超過のためEC2、RDS停止中)
 <br>
 <br>　　
 
