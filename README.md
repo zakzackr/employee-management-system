@@ -4,19 +4,16 @@
 <br>
 
 # ✨ Demo
-
-
-
 https://github.com/zakzackr/employee-management-system/assets/100734822/57a9316f-ad94-4a2f-a5f5-eed5045bda15
 
 
 <br>    
 
 # 🔗 URL
-http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br>
-(↑AWS無料枠超過のためEC2、RDS停止中)
-
+http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br>    
+<br>
 <br>　　
+
 
 # 💾 技術スタック
 | Category | Tech Stack |
