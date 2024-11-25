@@ -49,16 +49,14 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br>
   ⇨ プレゼンテーション層、ビジネスロジック層、データアクセス層の役割の理解と実装方法の習得
 * HTTPやRESTなどWeb開発の基本的な概念を理解する
 * 各フレームワークやライブラリ（Spring Boot, React.js）の使用方法を学ぶ
-* フロントエンド・バックエンド間でデータが表示され、データベースに保存されるまでの流れを理解する
+* フロントエンド・バックエンド間での一連の流れ（Webページの表示、リクエストの送信、データベースに保存など）を理解する
 <br>    
  
 # 💻 学んだこと
 * Webの基礎（HTTP, URI, RESTなど）
 * 3層アーキテクチャの役割と実装
-* @RestController, @Service, @Entityなどのアノテーションの使用方法
 * CRUD（GET, POST, PUT, DELETE）操作の実装
-* SpringのDIコンテナの役割
-* React.jsでの関数コンポーネントの書き方
+* Spring BootとReact.jsを使用したWebアプリの実装
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
 <br>
