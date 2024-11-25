@@ -56,8 +56,8 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br>
 * Webの基礎（HTTP, URI, RESTなど）
 * 3層アーキテクチャの役割と実装
 * CRUD（GET, POST, PUT, DELETE）操作の実装
-* Spring Bootでのバックエンド開発
-* React.jsでのフロントエンド開発
+* Spring Bootを使用したバックエンド開発
+* React.jsを使用したフロントエンド開発
 * Git、GitHubを使用したバージョン管理
 * ビルドとは何か
 <br>
