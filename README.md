@@ -1,6 +1,6 @@
 # Employee Management System（従業員管理システム）
 # 🖊️ 概要
-従業員や部署を管理するwebアプリケーション
+従業員や部署を管理するWebアプリケーション
 <br>
 
 # ✨ Demo
