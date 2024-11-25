@@ -35,7 +35,7 @@ http://my-ems.s3-website-ap-northeast-1.amazonaws.com/<br>
 ### 主な操作：
 **Employeesタブ**    
 * 従業員の追加（Add Employee）：新しい従業員の入社    
-* 従業員の更新（Update）：従業員の苗字やメールアドレスの変更、部署異動
+* 従業員の更新（Update）：従業員の名字やメールアドレス、部署の変更、
 * 従業員の削除（Delete）：従業員の退職
     
 **Departmentsタブ**    
